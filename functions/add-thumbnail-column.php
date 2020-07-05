@@ -1,5 +1,6 @@
 <?php
 /**
+ *
  * Add Thumbnail Column to Admin ( Post/Page )
  *
  */
