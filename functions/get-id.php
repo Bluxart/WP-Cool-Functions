@@ -1,7 +1,7 @@
 <?php
 /**
  *
- * Util for get the ID
+ * Utility for get the ID
  *
  */
 function az_get_ID() {
