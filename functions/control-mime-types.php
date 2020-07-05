@@ -1,9 +1,8 @@
 <?php
 /**
+ *
  * Control mime-types WordPress
  *
- * @param  array $mimes
- * @return void
  */
 function az_edit_mime_types( $mimes ) {
 
