@@ -6,7 +6,7 @@
  */
 if ( !function_exists( 'az_jquery_frontend' ) ) {
 
-    function sk_jquery_frontend() {
+    function az_jquery_frontend() {
 
         $wp_admin 	   = is_admin();
         $wp_customizer = is_customize_preview();
