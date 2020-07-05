@@ -26,3 +26,4 @@ function az_edit_mime_types( $mimes ) {
 
 }
 add_filter( 'upload_mimes', 'az_edit_mime_types' );
+?>
